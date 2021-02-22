@@ -45,3 +45,11 @@ Comandos:
 
     git commit -m "mensaje" : hace un commit y agrega el mensaje directamente nos evita tener que entrar al editor de codigo en nuestro caso VIM.
 
+    - git branch : nos permite ver las ramas existentes y ver en que rama estamos.
+
+    - git branch <ramar> : Nos permite crear una nueva rama.
+
+    - git checkout <rama> : nos permite movernos entre distintas ramas 
+
+    - git add . : añadimos todos los archivos que hayan sido modificados al Staging Area.
+
