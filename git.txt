@@ -55,4 +55,7 @@ Comandos:
 
     - git remote add <url> : Le indicamos donde almacenaremos el codigo, este seria como nuestro repositorio remoto.
 
+    Con git pull tambien podemos actualizar nuestro repositorio local con los cambios que hayan en el repositorio remoto. Git no permitira que subamos cambios hasta que no tengamos la version mas reciente del repositorio.
+
+
 Nota: Debemos tener en cuenta que git ignora por defecto las carpetas vacias (sin archivos).
