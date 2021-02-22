@@ -41,3 +41,5 @@ Comandos:
 
     - git log : nos muestra los commit que hemos hecho junto con la fecha y un Id que git le asigna.
 
+    para ignorar archivos que no queremos que git suba al repositorio creamos una carpeta .gitignore donde escribimos el nombre de las carpetas o archivos que queremos ignorar.
+
