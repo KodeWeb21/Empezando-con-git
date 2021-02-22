@@ -53,3 +53,4 @@ Comandos:
 
     - git add . : añadimos todos los archivos que hayan sido modificados al Staging Area.
 
+Nota: Debemos tener en cuenta que git ignora por defecto las carpetas vacias (sin archivos).
