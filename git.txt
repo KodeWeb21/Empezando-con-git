@@ -53,4 +53,6 @@ Comandos:
 
     - git add . : añadimos todos los archivos que hayan sido modificados al Staging Area.
 
+    - git remote add <url> : Le indicamos donde almacenaremos el codigo, este seria como nuestro repositorio remoto. 
+
 Nota: Debemos tener en cuenta que git ignora por defecto las carpetas vacias (sin archivos).
