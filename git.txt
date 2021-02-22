@@ -1,0 +1,37 @@
+¿Que es git?
+
+Git es un sistema de control de versiones distribuido, que como indica su nombre ayuda a los programadores a controlar las distintas versiones de un programa. En otras palabras git nos permite controlar los cambios que hacemos a un programa y asi poder tener un historial de cambios.
+
+git es open source creado por Linux Tolvars.
+
+La parte de distribuido se debe a que permite que multiples desarrolladores de cualquier lugar puedan trabajar en un mismo repositorio remoto pero a la vez todos tienen un repositorio local del programa. Con git si tenemos un programa que esta en una version x ejemplo: 10.x.x, podemos volver a una version anterior ejemplo: 5.x.x, esto gracias a que contamos con el historial de todos los cambios que se han realizado en el programa. 
+
+¿Que es un repositorio?
+
+Un repositorio no es mas que un computador que guarda tu codigo, basicamente es donde esta guardado tu codigo.
+
+Git provee una vista de los cambios a travez de snapshots que es algo asi como una foto.
+
+En realidad git es mas complejo que lo que se encontrara aqui, Pero con estas bases se puede seguir avanzando. 
+
+En git tenemos 3 estados estan:
+    -Working Directory : Donde se esta trabajando directamente con los archivos
+    -Staging Area : Los archivos que se van guardando para luego subirlos al repositorio
+    -Repository : Donde se guardan los cambios realizados.
+
+Comandos:
+
+    - git init : Para establecer que vas a comenzar a utilizar git ya sea en un nuevo proyecto o uno ya existente.
+
+    - git add : Para pasar los archivos al Staging Area.
+
+    - git status : para ver en que estado estan los archivos (Working Directory, Staging Area, Repository)
+
+    - git commit : Para pasar del Staging Area al repositorio. Es como para crear un primer snapshots de el codigo.
+
+    - git push : para subirlo a un repositorio remoto.
+
+    - git pull : para ver los cambios que han hecho otros desarrolladores.
+
+    - git clone : Realiza una copia desde el repositorio en el que se encuentra el codigo hacia nuestra computadora para empezar a trabajar.
+
