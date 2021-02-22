@@ -39,3 +39,5 @@ Comandos:
 
     - git restore -- <archivo> : para deshacer los cambios hechos en un archivo que ya previamente teniamos guardado en el repositorio.
 
+    - git log : nos muestra los commit que hemos hecho junto con la fecha y un Id que git le asigna.
+
