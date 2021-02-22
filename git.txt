@@ -43,3 +43,5 @@ Comandos:
 
     para ignorar archivos que no queremos que git suba al repositorio creamos una carpeta .gitignore donde escribimos el nombre de las carpetas o archivos que queremos ignorar. Para ignorar un archivo debemos escribir el nombre del mismo y su extencion; archvo.txt
 
+    git commit -m "mensaje" : hace un commit y agrega el mensaje directamente nos evita tener que entrar al editor de codigo en nuestro caso VIM.
+
