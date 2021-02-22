@@ -33,7 +33,7 @@ Comandos:
 
     - git pull : para ver los cambios que han hecho otros desarrolladores.
 
-    - git clone : Realiza una copia desde el repositorio en el que se encuentra el codigo hacia nuestra computadora para empezar a trabajar.
+    - git clone <url> : Realiza una copia desde el repositorio en el que se encuentra el codigo hacia nuestra computadora para empezar a trabajar.
 
     - git diff <archivo> : para ver las diferencias entre los cambios hechos anteriormente y los de ahora.
 
@@ -53,6 +53,6 @@ Comandos:
 
     - git add . : añadimos todos los archivos que hayan sido modificados al Staging Area.
 
-    - git remote add <url> : Le indicamos donde almacenaremos el codigo, este seria como nuestro repositorio remoto. 
+    - git remote add <url> : Le indicamos donde almacenaremos el codigo, este seria como nuestro repositorio remoto.
 
 Nota: Debemos tener en cuenta que git ignora por defecto las carpetas vacias (sin archivos).
